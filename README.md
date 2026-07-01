@@ -1,5 +1,12 @@
-# ML-Supervised-Learning-ll
-Name: AYESHA NAWAZ
-University of Narowal
-Email: 12ayeshanawaz08@gmail.com
-Semester: 6th
+hi, I am Ayesha Nawaz
+
+# Supervised Learning Projects
+
+Supervised learning implementations including classification 
+and regression models.
+
+## Tools Used
+Python, scikit-learn, Pandas, NumPy
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/ayesha-nawaz-ml)
